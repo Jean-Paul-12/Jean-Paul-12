@@ -1,5 +1,5 @@
 # <center>Hola! Mi nombre es Jean Paul Quitian 👋
----
+
 ### Python Developer 
 
 Soy un desarrollador apasionado y certificado con una trayectoria diversa en el ámbito de la tecnología. Mi viaje comenzó en **2020** cuando inicié estudios como tecnólogo en Análisis y Desarrollo de Sistemas de Información.
